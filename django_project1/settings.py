@@ -46,6 +46,8 @@ INSTALLED_APPS = [
     'whitenoise.runserver_nostatic',
     'blog',
     'home',
+    'task',
+    'rest_framework'
 ]
 
 MIDDLEWARE = [
